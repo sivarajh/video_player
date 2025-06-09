@@ -1,0 +1,11 @@
+need to create video streaming portal as e-learning system for new bankers joining a bank. portal should have following features 
+1. admin/manager should be able assign the trainings to the new joiners 
+2. admin/manager should be able to categorize the learning/training videos while uploading the videos. like first 30days, 60 days and 90days 
+3. admin/manager can assign based the bankers experience, domain knowledge and able to  bulk assignation to groups
+4. admin/manager should be to track every videos/training by person, day, week ,month
+5. Video player should be able to support the DASH Streaming and it should support both web and mobile 
+6. need to consider video codec, variable bit rate and also store it in the s3 bucket 
+7. please add if i miss anything that should benefit this in the future
+8. Add possible gamification in each segment
+
+can you provide architecture, flow diagram,  implementation strategies, db design and resourcing and project plan with resources needed with different skill sets if we need to complete this by 2 months
